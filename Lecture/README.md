@@ -19,8 +19,7 @@
 + 본인 Repository에 n주차 폴더 생성 후 해당 폴더 내에 과제 Commit하기   
 ## 🌱 PR 규칙          
 ### PR Convention         
-    [Week n] 단원 이름 / 이론 세션 / 이름   
-    [Week n] 단원 이름 / 실습 세션 / 이름      
+    [Week n] 단원 이름 / 이론 세션 / 이름        
 + 본인의 repository의 해당 주차 branch에서 main branch로 PR을 날려준 뒤 PR 링크를 보내주세요
 + 운영진이 과제를 확인한 뒤에 merge를 진행해주세요 
 
