@@ -4,8 +4,7 @@
 
 ## 🌱 Commit 규칙   
 ### Commit Convention      
-    [Week n] 단원 이름 / PPT 빈칸 채우기   
-    [Week n] 단원 이름 / 실습 코드 필사      
+    [Week n] {단원 이름} 실습 / 팀이름 / 이름       
 + 해당 주차 branch 생성 및 전환하기 
 + 본인 Repository에 n주차 폴더 생성 후 해당 폴더 내에 실습 파일 Commit하기 
 ## 🌱 PR 규칙       
