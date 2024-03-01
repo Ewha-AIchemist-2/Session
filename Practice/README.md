@@ -15,9 +15,9 @@
 + 본인의 repository의 해당 주차 branch에서 main branch로 PR을 날려준 뒤 PR 링크를 보내주세요
 ## 🗄 Repository 구조
 ```bash
-📁 n주차
+🗃 n주차
 ㄴ📁 이론
-  ㄴ📋 과제 파일
+| ㄴ📋 과제 파일
 ㄴ📁 실습
   ㄴ📋 실습 파일
 ```       
