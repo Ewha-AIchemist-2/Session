@@ -8,13 +8,13 @@
 ## 🖋 과제   
 + '파이썬 머신러닝 완벽 가이드' 해당 주차 범위 읽고 이해해오기   
 + Session Repository의 Lecture 폴더 내의 해당 주차 README에 업로드되어 있는 이론 PPT의 빈칸을 채운 뒤 Commit
-  - PPT는 PDF 혹은 PPT 파일로 제출합니다.   
+  - PPT는 PDF 파일로 제출합니다.   
 + 파이썬 머신러닝 완벽 가이드'의 실습 예제 필사한 뒤 Commit
   - 필사한 코드는 주피터 노트북에서 .py 파일을 다운로드받아서 제출합니다.   
 ## 🌱 Commit 규칙   
 ### Commit Convention      
     [Week n] 단원 이름 / PPT 빈칸 채우기   
-    [Week n] 단원 이름 / 실습 코드 필사      
+    [Week n] 단원 이름 / {교재 예제 이름} 코드 필사      
 + 해당 주차 branch 생성 및 전환하기 
 + 본인 Repository에 n주차 폴더 생성 후 해당 폴더 내에 과제 Commit하기   
 ## 🌱 PR 규칙          
@@ -22,7 +22,7 @@
     [Week n] 단원 이름 / 이론 세션 / 이름   
     [Week n] 단원 이름 / 실습 세션 / 이름      
 + 본인의 repository의 해당 주차 branch에서 main branch로 PR을 날려준 뒤 PR 링크를 보내주세요
-+ 운영진의 과제 확인 후 merge를 진행해주세요 
++ 운영진이 과제를 확인한 뒤에 merge를 진행해주세요 
 
 ## 🗄 Repository 구조
 ```bash
