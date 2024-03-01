@@ -3,7 +3,7 @@
 1. 이론 세션 후에 실습 세션이 진행됩니다.
 2. 실습 세션은 팀별로 진행됩니다.
 3. 팀은 파트별로 한명씩 모여서 구성됩니다.
-4. Session Repository의 해당 주차 폴더 내 실습 폴더 내 README에 올라오는 실습 PPT를 이용합니다.      
+4. Session Repository의 Practice 폴더 내 해당 주차 폴더 README에 올라오는 실습 PPT를 이용합니다.      
 ## 🌱 Commit 규칙   
 ### Commit Convention      
     [Week n] 단원 이름 / PPT 빈칸 채우기   
