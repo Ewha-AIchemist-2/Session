@@ -19,7 +19,15 @@
 + 본인 Repository에 n주차 폴더 생성 후 해당 폴더 내에 과제 Commit하기   
 ## 🌱 PR 규칙          
 ### PR Convention         
-    [Week n] 단원이름 - 이론세션 - 이름        
+    [Week n] 과제 제출 
+
+    ### 이름
+    김은솜
+    </br>
+
+    ### 제출한 과제
+    PPT 빈칸 : O / X
+    코드 필사 : O / X
 + 본인의 repository의 해당 주차 branch에서 main branch로 PR을 날려준 뒤 PR 링크를 보내주세요
 + 운영진이 과제를 확인한 뒤에 merge를 진행해주세요 
 
