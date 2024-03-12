@@ -8,13 +8,13 @@
 [AIchemist 2기 2주차_실습.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14568562/AIchemist.2.2._.pdf)
 
 ***📑 활용 자료***     
-1. 캐글 Cereals
+1. 캐글 Cereals   
 [Kaggle_Cereals.zip](https://github.com/Ewha-AIchemist-2/Session/files/14568590/Kaggle_Cereals.zip)   
 
-2. 캐글 Linear Regression Salary
+2. 캐글 Linear Regression Salary   
 [Kaggle_Linear_Regression_Salary.zip](https://github.com/Ewha-AIchemist-2/Session/files/14568593/Kaggle_Linear_Regression_Salary.zip)   
 
-3. 캐글 Titanic
+3. 캐글 Titanic   
 Session/Practice/2주차에 Kaggle Titanic Submit.py 파일로 올라가있으니 확인해주세요!
 
 
