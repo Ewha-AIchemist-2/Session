@@ -15,7 +15,8 @@
 [Kaggle_Linear_Regression_Salary.zip](https://github.com/Ewha-AIchemist-2/Session/files/14568593/Kaggle_Linear_Regression_Salary.zip)   
 
 3. 캐글 Titanic
-[Uploading Kaggle Titanic Submit.py…]()
+Session/Practice/2주차에 Kaggle Titanic Submit.py 파일로 올라가있으니 확인해주세요!
+
 
 
 
