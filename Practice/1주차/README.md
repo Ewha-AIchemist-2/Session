@@ -6,7 +6,8 @@
 직접 캐글 경진대회에 코드를 제출해보는 시간을 가지도록 하겠습니다!   
 
 **📔 실습 PPT**  
-[AIchemist 2기 2주차_실습.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14568562/AIchemist.2.2._.pdf)
+[AIchemist 2기 1주차_실습.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14630259/AIchemist.2.1._.pdf)
+
 
 **📑 활용 자료**     
 1. 캐글 Cereals   
