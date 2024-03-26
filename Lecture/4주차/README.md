@@ -1,4 +1,4 @@
-# 💠 AIchemist 2주차 
+# 💠 AIchemist 4주차 
 
 ## 🌻 정모 안내
 **1. 장소 : 신공학관 152호**   
@@ -9,7 +9,8 @@
 2. 이론 PPT 빈칸 채운 뒤 PDF 파일로 깃헙에 제출
 3. 필사 후 .py  파일로 깃헙에 제출   
 **이론 PPT**     
-[AIchemist 2기 4주차.pptx](https://github.com/Ewha-AIchemist-2/Session/files/14734873/AIchemist.2.4.pptx)
+[AIchemist 2기 4주차.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14752077/AIchemist.2.4.pdf)
+
 
 
 ## 🚨 알림
