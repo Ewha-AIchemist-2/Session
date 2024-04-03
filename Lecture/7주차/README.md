@@ -9,6 +9,7 @@
 2. 이론 PPT 빈칸 채운 뒤 PDF 파일로 깃헙에 제출
 3. 필사 후 .py  파일로 깃헙에 제출   
 **이론 PPT**     
+[AIchemist 2기 7주차.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14847021/AIchemist.2.7.pdf)
 
 
 **참고 자료**
