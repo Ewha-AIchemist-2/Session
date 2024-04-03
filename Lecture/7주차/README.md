@@ -16,9 +16,9 @@
 https://hyunhp.tistory.com/745
 
 2. 다중공선성   
-https://recipesds.tistory.com/entry/%EC%9C%A0%EC%9D%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B3%84%EC%88%98%EB%A5%BC-%EC%96%B4%EC%A9%90%EB%8B%A4-%EC%99%9C-%EC%9D%B4%EB%9F%B0-%EC%9D%BC%EC%9D%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B1%B8%EA%B9%8C-%EB%8B%A4%EC%A4%91%EA%B3%B5%EC%84%A0%EC%84%B1%EC%9D%98-%ED%83%90%EC%A7%80
+https://recipesds.tistory.com/entry/%EC%9C%A0%EC%9D%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B3%84%EC%88%98%EB%A5%BC-%EC%96%B4%EC%A9%90%EB%8B%A4-%EC%99%9C-%EC%9D%B4%EB%9F%B0-%EC%9D%BC%EC%9D%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B1%B8%EA%B9%8C-%EB%8B%A4%EC%A4%91%EA%B3%B5%EC%84%A0%EC%84%B1%EC%9D%98-%ED%83%90%EC%A7%80   
 
-https://blog.naver.com/PostView.naver?blogId=vnf3751&logNo=220833952857
+   https://blog.naver.com/PostView.naver?blogId=vnf3751&logNo=220833952857
 
 3. VIF   
 https://sosoeasy.tistory.com/386
@@ -27,9 +27,9 @@ https://sosoeasy.tistory.com/386
 https://recipesds.tistory.com/entry/%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98-%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%EC%9D%B8-%EC%9D%98%EB%AF%B8
 
 5. PCA   
-https://recipesds.tistory.com/entry/PCA-%EA%B3%A0%EC%9C%B3%EA%B0%92%EA%B3%BC-%EA%B3%A0%EC%9C%A0%EB%B2%A1%ED%84%B0%EC%97%90-%EA%B7%BC%EA%B1%B0%ED%95%9C-Feature-Extraction
+https://recipesds.tistory.com/entry/PCA-%EA%B3%A0%EC%9C%B3%EA%B0%92%EA%B3%BC-%EA%B3%A0%EC%9C%A0%EB%B2%A1%ED%84%B0%EC%97%90-%EA%B7%BC%EA%B1%B0%ED%95%9C-Feature-Extraction   
 
-https://blog.naver.com/paragonyun/222465847517
+   https://blog.naver.com/paragonyun/222465847517
 
 
 ## 🚨 알림
