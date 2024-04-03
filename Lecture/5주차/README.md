@@ -11,6 +11,27 @@
 **이론 PPT**     
 [AIchemist 2기 5주차.pdf](https://github.com/Ewha-AIchemist-2/Session/files/14846661/AIchemist.2.5.pdf)
 
+**참고 자료**
+1. 회귀   
+https://danbi-ncsoft.github.io/study/2018/05/04/study-regression_model_summary.html   
+
+2. 선형과 비선형에 대해서      
+https://www.youtube.com/watch?v=umiqnfQxlac
+
+3. OLS - 최소제곱법   
+https://bigdata-doctrine.tistory.com/41
+https://datalabbit.tistory.com/49
+
+4. 다중 선형 회귀계수 추정(행렬-선형대수)   
+https://heung-bae-lee.github.io/2020/01/08/machine_learning_02/
+https://jangpiano-science.tistory.com/111
+
+5. 규제   
+https://hi-guten-tag.tistory.com/235
+
+6. 회귀 트리   
+https://modern-manual.tistory.com/entry/의사결정트리Decision-Tree-회귀트리-pruning-쉽게-이해하기
+
 ## 🚨 알림
 
 ## 🌱 Commit 규칙   
