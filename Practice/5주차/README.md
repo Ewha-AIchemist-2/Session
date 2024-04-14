@@ -10,7 +10,7 @@
 
 
 **📑 활용 자료**
-1. Medical Cost Personal 노트북 자료
+1. Medical Cost Personal 노트북, datasets 자료
 Practice 폴더 5주차에 올려놓겠습니다!  
 
 ## 🌱 Commit 규칙  
