@@ -34,3 +34,7 @@
 1. 모든 Commit은 항상 해당 주차의 branch로 전환 후에 진행해주세요!
 2. Convention을 잘 지켜서 commit 및 PR을 진행해주세요!
 
+
+### 기타사항
+- A조 발표
+https://north-lilac-170.notion.site/05-20-04437a0fd23f417db811e8c894aded5b?pvs=4
