@@ -6,9 +6,10 @@
 또한 캐글의 여성 의류 온라인 쇼핑몰 리뷰 데이터 실습을 통해 텍스트 분석과 비정형 데이터를 활용한 모델 생성 과정을 학습할 예정입니다.
 
 **📔 실습 PPT**   
-[AIchemist 2기 9주차 실습.pdf](https://github.com/Ewha-AIchemist-2/Session/files/15447325/AIchemist.2.9.pdf)   
+
 
 [텍스트 분석 공모전 적용.pdf](https://github.com/Ewha-AIchemist-2/Session/files/15449608/default.pdf)   
+[AIchemist 2기 9주차 실습.pdf](https://github.com/Ewha-AIchemist-2/Session/files/15454077/AIchemist.2.9.pdf)
 
 
 **📑 활용 자료**   
