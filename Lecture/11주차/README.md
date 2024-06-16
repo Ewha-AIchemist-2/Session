@@ -4,6 +4,35 @@
 **1. 장소 : 아산공학관 152호**   
 **2. 시간 : (월) 19:00 ~ 21:00**
 
+## 코드 수정
+p.605 교재 코드대로 하면 오류 발생합니다.
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+
+# CountVectorizer를 적용하기 위해 공백문자로 word 단위가 구분되는 문자열로 변환. 
+movies_df['genres_literal'] = movies_df['genres'].apply(lambda x : (' ').join(x))
+count_vect = CountVectorizer(min_df=0, ngram_range=(1,2))
+genre_mat = count_vect.fit_transform(movies_df['genres_literal'])
+print(genre_mat.shape)
+```
+<br>
+
+`count_vect = CountVectorizer(min_df=0, ngram_range=(1,2))`
+에서 에러 발생. 아래 코드로 수정 <br>
+`count_vect = CountVectorizer(min_df=1, ngram_range=(1,2))`
+
+- 수정 코드 
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+
+# CountVectorizer를 적용하기 위해 공백문자로 word 단위가 구분되는 문자열로 변환. 
+movies_df['genres_literal'] = movies_df['genres'].apply(lambda x : (' ').join(x))
+count_vect = CountVectorizer(min_df=1, ngram_range=(1,2))
+genre_mat = count_vect.fit_transform(movies_df['genres_literal'])
+print(genre_mat.shape)
+```
+
+
 ## 🖋 과제
 1. 파이썬 머신러닝 완벽가이드 : 텍스트 분석 - p.584 ~ 646 이론 열심히 공부해오기
 2. 이론 PPT 빈칸 채운 뒤 PDF 파일로 깃헙에 제출
