@@ -11,6 +11,9 @@
 3. p.566 ~ 581 **텍스트 분류 실습 - Mercari Price Suggestion Challenge** 필사 후 .py 파일로 깃헙에 제출
 
 <br>
+**공지 PPT**<br>
+[알켐_LN10_공지.pdf](https://github.com/user-attachments/files/15858035/_LN10_.pdf)
+
 
 **이론 PPT**<br>
 [알켐_LN10.pdf](https://github.com/Ewha-AIchemist-2/Session/files/15377049/_LN10.pdf)
